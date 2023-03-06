@@ -23,7 +23,7 @@ So firstly you need to download [python](https://www.python.org/downloads/). The
 ---
 If you have error like this:
 
-![error](for_README/error.png)
+![error](GitHub/error.png)
 
 How to solve it read [here](https://www.stechies.com/pip-not-recognized-internal-external-command/)
 
